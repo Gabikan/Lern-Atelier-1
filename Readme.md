@@ -28,5 +28,20 @@ Ausserdem wurde ich von anderen Ideen inspiriert und habe diese Umgesetzt am Anf
 - [] Modul 431 nacharbeiten
 - [] Modul 319 nacharbeiten
 
+Es war gewöhnungsbedürftig komplett so alleine Arbeiten zu dürfen Freie Wahl zu haben an was man arbeiten will. Ich war schnell abgelenkt und ich war nicht produktiv.Ich habe für mein Verständnis YT Videos geschaut und bemerkt das die typen von den Videos anderes Zeug nutzen als wir im Unterricht gelernt haben trotzdem war es hilfreich. (55)
 
+## Arbeitspakete 12.9.2023
+
+-[] GitHub Problem genauer schauen 
+-[] Meinen Notenrechner verbessern und Arrays einfügen
+-[] Modul 431 Aufträge lösen
+-[] Hausaufgaben
+
+
+Es lief besser als letztes Mal ich habe mich zum ersten Mal produktiv gefühlt das sinnvolle Gedankenströme in mir fliessen vielleicht liegt es auch daran das ich jetzt c# und allgemein den Aufbau von allem besser verstehe und ich mich an meine neue Umwelt gewöhnt habe. Ich habe ausserdem meinen Freund nach Hilfe gefragt wenn er mal Zeit hat für mich und mein GitHub Problem.
+
+## Arbeitspakete 19.9.2023
+
+-[] Da Modulabgabe bald ist für 431 möchte ich mich darauf konzentrieren.
+-[] M319 Hausaufgaben
 
