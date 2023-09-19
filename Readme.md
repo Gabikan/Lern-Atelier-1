@@ -32,9 +32,9 @@ Es war gewöhnungsbedürftig komplett so alleine Arbeiten zu dürfen Freie Wahl 
 
 ## Arbeitspakete 12.9.2023
 
--[] GitHub Problem genauer schauen 
--[] Meinen Notenrechner verbessern und Arrays einfügen
--[] Modul 431 Aufträge lösen
+-[x] GitHub Problem genauer schauen 
+-[x] Meinen Notenrechner verbessern 
+-[x] Modul 431 Aufträge lösen
 -[] Hausaufgaben
 
 
@@ -42,6 +42,20 @@ Es lief besser als letztes Mal ich habe mich zum ersten Mal produktiv gefühlt d
 
 ## Arbeitspakete 19.9.2023
 
--[] Da Modulabgabe bald ist für 431 möchte ich mich darauf konzentrieren.
--[] M319 Hausaufgaben
+-[x] M431 Auftrag 13.
+-[x] M319 Hausaufgaben
+-[x] M431 Auftrag 18
+-[x] M431 Auftrag 17
+
+Heute war ein guter Tag ich habe am Modul gearbeitet und konnte 4 Aufträge lösen jetzt bleiben mir nur noch 12 Aufträge die ich bis nächsten Donnerstag sicherlich machen werde. Ich habe mich vorallem mit Excel und Outlook mich auseinander gesetz. Sonst ging es gut nicht schlecht letztes Mal lief es besser ich finde es (51)
+
+
+## Arbeitspakete 26.9.2023 
+-[] Experten Ziel 12 M431
+-[] Experten Ziel 11 M431
+-[] Experten Ziel 14 M431
+Da ich am Donnerstag höchstwahrscheinlich am mit den Mindestzielen fertig bin will ich mit den Expertenzielen weiter machen.
+
+
+
 
