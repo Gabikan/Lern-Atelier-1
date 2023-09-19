@@ -23,8 +23,7 @@ Ausserdem wurde ich von anderen Ideen inspiriert und habe diese Umgesetzt am Anf
 
 ## Arbeitspakte 5.9.2023
 
-- [] C# weiter üben etwa 1 Stunde und Problemstellungen überwältigen
-- [] Meine Projektidee realisieren und mich darüber informieren
+ - [] Meine Projektidee realisieren und mich darüber informieren
 - [] Modul 431 nacharbeiten
 - [] Modul 319 nacharbeiten
 
