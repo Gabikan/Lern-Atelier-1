@@ -1,0 +1,70 @@
+
+using System;
+using System.Diagnostics;
+
+class Program
+{
+    static void Main()
+    {
+        double summe = 0;  
+        int anzahlNoten = 0;  
+
+        while (true)
+        {
+            Console.WriteLine("Geben Sie bitte Ihre Note ein:");
+            double note;
+
+            try
+            {
+                note = Convert.ToDouble(Console.ReadLine());
+
+                if (note < 1 || note > 6  )
+                {
+                    Console.WriteLine("Ungültige Note. Bitte eine Note zwischen 1 und 6 eingeben.");
+                    continue;
+                }
+
+                summe += note;
+                anzahlNoten++;
+
+                Console.WriteLine("Möchten Sie eine weitere Note eingeben? (Ja/Nein)");
+                string antwort = Console.ReadLine();
+
+                if (antwort.Equals("Nein"))
+                {
+                    break;
+                }
+                else if (!antwort.Equals("Ja"))
+                {
+                    Console.WriteLine("Ungültige Antwort. Das Programm wird beendet.");
+                    break;
+                }
+            }
+            catch 
+            {
+                Console.WriteLine("Ungültige Eingabe. Bitte eine gültige Zahl eingeben.");
+            }
+        }
+
+        if (anzahlNoten == 0)
+        {
+            Console.WriteLine("Keine Noten eingegeben.");
+        }
+        else
+        {
+            double durchschnitt = summe / anzahlNoten;
+            Console.WriteLine($"Durchschnittsnote: {durchschnitt:F2}");
+
+        }
+    }
+}
+
+
+
+    
+
+
+
+
+
+
