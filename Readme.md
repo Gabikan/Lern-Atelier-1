@@ -50,11 +50,22 @@ Heute war ein guter Tag ich habe am Modul gearbeitet und konnte 4 Aufträge lös
 
 
 ## Arbeitspakete 26.9.2023 
--[  ] Experten Ziel 12 M431
--[  ] Experten Ziel 11 M431
+-[ x ] Experten Ziel 12 M431
+-[ x ] Experten Ziel 11 M431
 -[  ] Experten Ziel 14 M431
 Da ich am Donnerstag höchstwahrscheinlich am mit den Mindestzielen fertig bin will ich mit den Expertenzielen weiter machen.
 
+Die Abgabe wurde verschoben, weswegen ich nicht viel Druck hatte, doch ich arbeite unter Druck besser, wie ich die letzten Male mich beobachtet habe
+Die Expertenziele habe ich unterschätzt und ich habe mir zu viel vorgenommen. Ich habe meine Excel Kentnisse verbessert und kann jetzt Funktionen gut 
+einsetzen.
+
+
+## Reflektion
+Ich habe gemerkt das ich mich oft nicht konzentrieren kann da es mich nicht ansporrt, in Zukunft will ich Dinge machen die mich wirklich interessieren 
+ich wirklich will und wirklich brauche, denn wenn es um etwas geht bin ich automatisch fokusierter auf meinen Aufträge. Ich will in Zukunft mir grössere 
+Ziele setzen und mich nicht vor Aufträgen scheuen und mir auch Sachen vornehmen wo ich viel zu lernen hab da ich dort höchstwahrscheinlich grössere 
+Fortschritte machen werde. Um mich zu motivieren nehme ich etwas was mir etwas bringt wo ich Lust und Laune habe daran zuarbeiten wofür ich Feuer und 
+Flamme bin. (100)
 
 
 
