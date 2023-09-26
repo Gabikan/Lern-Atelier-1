@@ -64,7 +64,8 @@ einsetzen.
 Ich habe gemerkt das ich mich oft nicht konzentrieren kann da es mich nicht ansporrt, in Zukunft will ich Dinge machen die mich wirklich interessieren 
 ich wirklich will und wirklich brauche, denn wenn es um etwas geht bin ich automatisch fokusierter auf meinen Aufträge. Ich will in Zukunft mir grössere 
 Ziele setzen und mich nicht vor Aufträgen scheuen und mir auch Sachen vornehmen wo ich viel zu lernen hab da ich dort höchstwahrscheinlich grössere 
-Fortschritte machen werde. Um mich zu motivieren nehme ich etwas was mir etwas bringt wo ich Lust und Laune habe daran zuarbeiten wofür ich Feuer und 
+Fortschritte machen werde. 
+VBV: Um mich zu motivieren nehme ich etwas was mir etwas bringt wo ich Lust und Laune habe daran zuarbeiten wofür ich Feuer und 
 Flamme bin. (100)
 
 
